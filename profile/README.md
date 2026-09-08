@@ -2,7 +2,7 @@
 
 # budlum
 
-The name carries the intent: bud and lum, the bud and the light. A system named after blossoming is built on the idea that layers should open one another, not close over one another.
+The name carries the intent: bud and lum, the bud and the light. A system named after flourishing is built on the idea that layers should open one another, not close over one another.
 
 Budlum is a settlement layer for heterogeneous networks. It does not replace other chains; it verifies them. Each network keeps its own consensus and produces a proof of finality, while Budlum records cross-network movement as a cryptographic fact on a single header. Sovereignty over data, keys and computation stays with the participants.
 
