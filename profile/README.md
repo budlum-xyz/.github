@@ -1,10 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/budlum-xyz/.github/main/profile/assets/budlum-banner.png" alt="budlum" width="720"></p>
 
-# budlum
-
-[![CI](https://github.com/budlum-xyz/budlum/actions/workflows/ci.yml/badge.svg?branch=main&event=push)](https://github.com/budlum-xyz/budlum/actions/workflows/ci.yml?query=branch%3Amain+event%3Apush)
-[![License](https://img.shields.io/badge/license-PolyForm%20Shield%201.0.0-blue)](https://github.com/budlum-xyz/budlum/blob/main/LICENSE.md)
-
 The name carries the intent: bud and lum, the bud and the light. A system named after flourishing is built on the idea that layers should open one another, not close over one another.
 
 **Budlum is the next layer of the internet, built around data sovereignty and collective flourishing.** It is a settlement layer for heterogeneous networks. It does not replace other chains; it verifies them. PoW, PoS, BFT, isolated PoA and ZK domains each keep their own consensus and produce a proof of finality, while Budlum records cross-network movement as a cryptographic fact on a single `GlobalBlockHeader`. Sovereignty over data, keys and computation stays with the participants.
